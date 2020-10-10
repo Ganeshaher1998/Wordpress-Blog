@@ -1,4 +1,4 @@
-# Wordpress-Blog
+# Wordpress-Blog.
 
 Simple WordPress blog using docker-compose.
 Prerequisite To launch WordPress site with database using docker-compose on Centos-7.
